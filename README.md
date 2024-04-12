@@ -10,6 +10,8 @@ time. There are two order books, one for BTC/USDT and one for ETH/USDT.
 Maven is required to build the project.
 [Install it here](https://maven.apache.org/install.html).
 
+Java 17 (or later) is required to run the project.
+
 To build the project, run the following command:
 
 ```bash
